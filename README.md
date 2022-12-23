@@ -4,5 +4,4 @@ New Msg has to be added from Colaborartor B
 
 Zomato-landing-page-DT
 ANUSHREE M
-
-This is a new installation Setup Branch.
+Thank you...
